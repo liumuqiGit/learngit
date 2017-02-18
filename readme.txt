@@ -3,3 +3,4 @@ Git is free software.
 It is my second times to learn git.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
+GIT track now.
