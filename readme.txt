@@ -5,4 +5,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 GIT track now.
 git check now.
-has a  new dog
+has a new dog and cat
